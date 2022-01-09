@@ -5,8 +5,8 @@
 	a. SERVER:
 		1.  Open terminal from folder "Server"
 		2.  Run following commands:
-			2.1 TPC:  mvn clean , mvn compile, mvn exec:java -Dexec.mainClass="bgu.spl.net.srv.TPCMain" -Dexec.args="7777"
-			2.2 Reactor;  mvn clean, mvn compile, mvn exec:java -Dexec.mainClass="bgu.spl.net.srv.ReactorMain" -Dexec.args="7777 5"
+			2.1. TPC:  mvn clean , mvn compile, mvn exec:java -Dexec.mainClass="bgu.spl.net.srv.TPCMain" -Dexec.args="7777"
+			2.2. Reactor;  mvn clean, mvn compile, mvn exec:java -Dexec.mainClass="bgu.spl.net.srv.ReactorMain" -Dexec.args="7777 5"
 	
 	b. Client:
 		1. Open terminal from folder "Client"
